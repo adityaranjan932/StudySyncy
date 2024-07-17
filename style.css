@@ -606,7 +606,7 @@ margin-bottom: 1.65rem;
   padding-bottom: 2rem;
   margin-top: 2rem;
   padding-top: 1.15rem;
-  border: 1px solid #e5e7eb;
+/*   border: 1px solid #e5e7eb; */
 }
 @media screen and (max-width:1080px) {
   .footer{
